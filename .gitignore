@@ -4,6 +4,7 @@
 ### Custom ###
 .classpath
 .project
+/build/
 
 ### Eclipse ###
 .metadata
