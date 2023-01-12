@@ -22,7 +22,7 @@ public class WeKhstudyServlet extends HttpServlet {
 		response.getWriter()
 			.append("Served at: ")
 			.append(request.getContextPath())
-			.append("khstudy이 /world에 응답했습니다.");
+			.append("khstudy이 /world에 응답했습니다.ㅎㅎㅎㅎ");
 	}
 
 }
