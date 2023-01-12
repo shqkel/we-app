@@ -5,8 +5,12 @@
 <head>
 <meta charset="UTF-8">
 <title>We App</title>
+<!-- khstudy start -->
 <link rel="stylesheet" href="/css/style.css" />
+<!-- khstudy end -->
+<!-- shqkel start -->
 <script src="js/jquery.js"></script>
+<!-- shqkel end -->
 </head>
 <body>
 	<h1>We App</h1>
